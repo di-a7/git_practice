@@ -37,3 +37,6 @@ git merge branch_name
 
 # change the name of master branch
 git branch -M main
+
+# clone remote git repo
+git clone repo_url
