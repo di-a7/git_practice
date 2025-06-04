@@ -34,3 +34,6 @@ git checkout branch_name
 
 # merge branch
 git merge branch_name
+
+# change the name of master branch
+git branch -M main
