@@ -38,5 +38,13 @@ git merge branch_name
 # change the name of master branch
 git branch -M main
 
+# push local changes to remote repo
+git push -u origin main
+git push
+git pust origin your_branch
+
 # clone remote git repo
 git clone repo_url
+
+# get remote changes to local repo
+git pull
